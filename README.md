@@ -15,4 +15,4 @@
 <li>Vuex para gerenciamento de estado</li>
 <li>Vue Router para roteamento</li>
 <hr>
-![ToDoList](https://user-images.githubusercontent.com/58534889/233257294-e22db5fc-b24a-4d1a-b6d8-dfbf05f3df17.png)
+![ToDoList](https://user-images.githubusercontent.com/58534889/233257507-c585ae51-9729-4082-8b7a-d28a1648e972.png)
