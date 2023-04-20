@@ -1,24 +1,7 @@
-# eco_doctor
+<h1>ToDoList</h1>
+<p> Aplicação desenvolvida usando Vue.Js</p>
+<p>Armazenamento local para persistência dos dados</p>
+<p>Tecnologia usada Vue.js 3</p>
+<p>Vuex para gerenciamento de estado</p>
+<p>Vue Router para roteamento</p>
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
