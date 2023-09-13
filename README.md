@@ -5,7 +5,7 @@
 <hr>
 <li>Criar nova tarefa</li>
 <li>Excluir tarefa</li>
-<li>Visualizar lista des tarefa</li>
+<li>Visualizar lista de tarefa</li>
 <li>Visualizar detalhes da tarefa</li>
 <li>Marcar tarefa como concluída</li>
 <hr>
